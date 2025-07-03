@@ -52,7 +52,7 @@
 #define TX_RING_SIZE 1024
 
 #define NUM_MBUFS 8192
-#define BURST_SIZE 1000
+#define BURST_SIZE 100
 
 #define MAX_FILE_NAME 255
 #define MAX_SERVER_NAME 255
